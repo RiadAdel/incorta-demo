@@ -1,0 +1,7 @@
+streamlit==1.57.0
+plotly==6.7.0
+pandas==3.0.2
+psycopg2-binary==2.9.12
+SQLAlchemy==2.0.49
+fpdf2==2.8.7
+python-pptx==1.0.2
